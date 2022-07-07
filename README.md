@@ -8,7 +8,7 @@ authors:
     link: https://blog.cronje.me
     avatar: https://assets.cronje.me/avatars/darker.jpg
 date: 2022-03-07T16:58
-description: Main documentation index for CRONje.ME
+description: Every now and then I run into that seems to be simple but then takes a long time to solve. I will document some of that here.
 edit:
   repo: "https://github.com/charlpcronje/troubleshoot.docs.cronje.me/edit/"
   base: /src

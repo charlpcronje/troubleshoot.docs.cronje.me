@@ -1,9 +1,9 @@
 input: src
 output: public
-url: https://tools.docs.CRONje.ME
+url: https://troubleshoot.docs.CRONje.ME
 branding:
-  title: CRONje.ME Tools
-  label: Docs
+  title: Troubleshoot docs
+  label: Troubleshoot
 links:
 - text: Dashboard
   link: https://nav.cronje.me

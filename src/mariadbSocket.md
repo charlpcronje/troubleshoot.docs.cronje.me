@@ -172,6 +172,6 @@ aria_log_control   ibdata1         ib_logfile1  multi-master.info  mysql.sock  p
 
  This command saved the day:
 
- ```sh
+ ```shc
  chown -Rv mysql.mysql /var/lib/mysql/
  ```

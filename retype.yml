@@ -4,6 +4,7 @@ url: https://troubleshoot.docs.CRONje.ME
 branding:
   title: Troubleshoot docs
   label: Troubleshoot
+favicon: ./favicon.png
 links:
 - text: Dashboard
   link: https://nav.cronje.me
